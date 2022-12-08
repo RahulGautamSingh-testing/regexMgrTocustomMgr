@@ -1,4 +1,5 @@
-{ "enabledManagers": ["regex"],
+{ 
+  "enabledManagers": ["regex"],
   "regexManagers":[
   {
   "fileMatch": ["^Dockerfile$"],
